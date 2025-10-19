@@ -8,7 +8,7 @@ This ranges from basic queries, such as selecting records and filtering results,
 | Day | Problem ID | Title | Difficulty | Status |
 |-----|-------------|----------------------------------------------|-------------|---------|
 | 1 | [1407](https://leetcode.com/problems/top-travellers/) | Top Travellers | Easy | Done |
-| 2 | [262](https://leetcode.com/problems/trips-and-users/) | Trips and Users | Hard |  |
+| 2 | [262](https://leetcode.com/problems/trips-and-users/) | Trips and Users | Hard | Done |
 | 3 | [1527](https://leetcode.com/problems/patients-with-a-condition/) | Patients With a Condition | Easy |  |
 | 4 | [1667](https://leetcode.com/problems/fix-names-in-a-table/) | Fix Names in a Table | Easy |  |
 | 5 | [1179](https://leetcode.com/problems/reformat-department-table/) | Reformat Department Table | Easy |  |
